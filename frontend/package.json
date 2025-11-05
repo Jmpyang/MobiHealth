@@ -1,0 +1,26 @@
+{
+    "name": "mobihealth-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for MobiHealth application",
+    "main": "index.html",
+    "scripts": {
+        "start": "live-server",
+        "build": "echo 'No build step defined'",
+        "test": "echo 'No test defined'",
+        "eject": "echo 'No eject step defined'"
+    },
+    "keywords": [
+        "health",
+        "mobile",
+        "frontend"
+    ],
+    "license": "Apache-2.0",
+    "author": "The Group",
+    "dependencies": {},
+    "devDependencies": {
+        "live-server": "^1.2.1",
+        "eslint": "^7.32.0",
+        "eslint-config-prettier": "^8.3.0",
+        "prettier": "^2.5.1"
+    }
+}
